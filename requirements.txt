@@ -1,0 +1,2 @@
+pymongo>=4.8
+folium>=0.17
